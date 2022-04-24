@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alex.ouillon83](https://medium.com/@alex.ouillon83)
 
-- 💬 Ask me about **Angular, sPRING**
+- 💬 Ask me about **Angular, Spring**
 
 - 📫 How to reach me **alex.ouillon@outlook.fr**
 
